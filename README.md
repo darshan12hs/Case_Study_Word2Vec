@@ -44,8 +44,4 @@ The repository includes experiments on different datasets such as product review
 - Python  
 - Gensim (Word2Vec)  
 - Pandas, NumPy  
-- Matplotlib / visualization tools  
-- Jupyter Notebook
-cd Case_Study_Word2Vec
-pip install -r requirements.txt
-jupyter notebook
+- Matplotlib / visualization tools
